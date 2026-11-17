@@ -50,7 +50,7 @@ function App() {
                 {/* Screen */}
                 <div className="relative rounded-[2rem] overflow-hidden" style={{ aspectRatio: '9/16', maxHeight: '80vh' }}>
                   <img
-                    src="https://image.qwenlm.ai/generated-images/8ee1953f-3624-4111-a61b-160f08c2c9ac/_result.png"
+                    src="https://image.qwenlm.ai/generated-images/23f35e8b-411b-4575-b795-9de743e5ea80/_result.png"
                     alt="Arslanbob Runner - Vertical Mobile Game Concept Art"
                     className="w-full h-full object-cover"
                   />
